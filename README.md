@@ -11,11 +11,11 @@
   -h, --help            show this help message and exit  <br/>
   -v, --version         Displays version and exits.  <br/>
   -t, --threads         Number of Concurrent conversions.  <br/>
-  -dp DATAPATH, --datapath DATAPATH  <br/>
+  -dp DATAPATH, --datapath DATAPATH
                   The path to the data converted  <br/>
-  -dd DESTINATIONDIRECTORY, --destinationdirectory DESTINATIONDIRECTORY  <br/>
+  -dd DESTINATIONDIRECTORY, --destinationdirectory DESTINATIONDIRECTORY
                     destination directory path, a new foder 'converted'  will be created  <br/>
-  -f {mp3,mp4,webm}, --format {mp3,mp4,webm}  <br/>
+  -f {mp3,mp4,webm}, --format {mp3,mp4,webm}
                      The desired output file format  <br/>
 
 #### Author
